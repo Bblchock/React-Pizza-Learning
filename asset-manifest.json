@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/React-Pizza-Learning/static/css/main.cda5b968.css",
+    "main.js": "/React-Pizza-Learning/static/js/main.f01b062e.js",
+    "Cart.js": "/React-Pizza-Learning/static/js/Cart.88c242ae.chunk.js",
+    "FullPizza.js": "/React-Pizza-Learning/static/js/FullPizza.4c7cc775.chunk.js",
+    "NotFound.js": "/React-Pizza-Learning/static/js/NotFound.33afa822.chunk.js",
+    "static/media/empty-cart.png": "/React-Pizza-Learning/static/media/empty-cart.db905d1f4b063162f25b.png",
+    "static/media/pizza-logo.svg": "/React-Pizza-Learning/static/media/pizza-logo.56ac87032d8f6fdf863326acd06c0d97.svg",
+    "index.html": "/React-Pizza-Learning/index.html",
+    "main.cda5b968.css.map": "/React-Pizza-Learning/static/css/main.cda5b968.css.map",
+    "main.f01b062e.js.map": "/React-Pizza-Learning/static/js/main.f01b062e.js.map",
+    "Cart.88c242ae.chunk.js.map": "/React-Pizza-Learning/static/js/Cart.88c242ae.chunk.js.map",
+    "FullPizza.4c7cc775.chunk.js.map": "/React-Pizza-Learning/static/js/FullPizza.4c7cc775.chunk.js.map",
+    "NotFound.33afa822.chunk.js.map": "/React-Pizza-Learning/static/js/NotFound.33afa822.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cda5b968.css",
+    "static/js/main.f01b062e.js"
+  ]
+}
